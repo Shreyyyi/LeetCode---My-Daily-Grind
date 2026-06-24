@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/0560-subarray-sum-equals-k) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/0073-set-matrix-zeroes) |
 ## Math
 |  |
@@ -33,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/0560-subarray-sum-equals-k) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
