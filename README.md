@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/0560-subarray-sum-equals-k) |
+| [3637-trionic-array-i](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/3637-trionic-array-i) |
 ## Hash Table
 |  |
 | ------- |
