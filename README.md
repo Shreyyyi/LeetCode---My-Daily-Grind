@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/0033-search-in-rotated-sorted-array) |
+| [0041-first-missing-positive](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/0073-set-matrix-zeroes) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/0229-majority-element-ii) |
