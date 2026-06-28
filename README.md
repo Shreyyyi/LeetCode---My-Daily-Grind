@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/0560-subarray-sum-equals-k) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3637-trionic-array-i](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/3637-trionic-array-i) |
 ## Hash Table
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/0018-4sum) |
 | [0229-majority-element-ii](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/0229-majority-element-ii) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Counting
 |  |
 | ------- |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/0033-search-in-rotated-sorted-array) |
+## Greedy
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->
