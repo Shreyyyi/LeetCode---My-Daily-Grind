@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/0229-majority-element-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/0560-subarray-sum-equals-k) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/0033-search-in-rotated-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/0540-single-element-in-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
