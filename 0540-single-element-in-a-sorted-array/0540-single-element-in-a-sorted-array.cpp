@@ -1,15 +1,10 @@
 class Solution {
 public:
     int singleNonDuplicate(vector<int>& nums) {
-        map<int,int> mpp;
+        int xr = 0;
         for(int i=0; i<nums.size(); i++){
-            mpp[nums[i]]++;
+            xr = xr^nums[i];
         }
-        for(auto it:mpp){
-            if(it.second ==1){
-                return it.first;
-            }
-        }
-        return -1;
+        return xr;
     }
 };
