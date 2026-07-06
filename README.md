@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/0229-majority-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/0560-subarray-sum-equals-k) |
+| [0875-koko-eating-bananas](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/0875-koko-eating-bananas) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3637-trionic-array-i](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/3637-trionic-array-i) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/0540-single-element-in-a-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/0875-koko-eating-bananas) |
 ## Greedy
 |  |
 | ------- |
