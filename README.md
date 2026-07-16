@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3637-trionic-array-i](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/3637-trionic-array-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/0048-rotate-image) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/0054-spiral-matrix) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/0229-majority-element-ii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -80,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/0088-merge-sorted-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -105,4 +110,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
