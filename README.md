@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3637-trionic-array-i](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/3637-trionic-array-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/0054-spiral-matrix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
