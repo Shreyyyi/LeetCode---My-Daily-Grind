@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/0048-rotate-image) |
+| [3360-stone-removal-game](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/3360-stone-removal-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/0054-spiral-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/3360-stone-removal-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shreyyyi/LeetCode---My-Daily-Grind/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
